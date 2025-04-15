@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ricardo
 
-🚀 **Full-Stack Developer | Cloud & DevOps Enthusiast**
+🚀 **Full-Stack Developer | Cloud & DevOps Engineer**
 
 I am a passionate Full-Stack Developer with expertise in **web and mobile development**, experienced in deploying cloud infrastructure on **GCP and Azure**. I specialize in **automation, DevOps, and scalable cloud-native solutions** using modern technologies and best practices.
 
