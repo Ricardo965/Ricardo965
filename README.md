@@ -5,7 +5,7 @@
 I am a passionate Full-Stack Developer with expertise in **web and mobile development**, experienced in deploying cloud infrastructure on **GCP and Azure**. I specialize in **automation, DevOps, and scalable cloud-native solutions** using modern technologies and best practices.
 
 ## 💡 About Me
-- 🎓 **Software & Telecommunications Engineering** (7th Semester)
+- 🎓 **Software & Telecommunications Engineering** 
 - 🏗️ Experienced in **Java, Spring, SpringBoot, JavaScript/TypeScript, React 18+**
 - ☁️ Skilled in **Cloud Infrastructure on GCP & Azure**
 - 🛠️ **DevOps & Automation:** CI/CD with Jenkins & Azure DevOps
